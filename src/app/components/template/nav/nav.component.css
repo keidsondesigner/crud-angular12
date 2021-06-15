@@ -1,0 +1,28 @@
+.sidenav {
+  width: 200px;
+}
+
+.nav-list a {
+  color: #8f9bb3;
+  font-weight: 500;
+  border-bottom: 1px solid #edf1f7;
+
+}
+.nav-list a:hover {
+  color: #757AE9;
+  cursor: pointer;
+}
+
+.nav-list span {
+  padding-right: 5px;
+
+}
+
+.mat-list-base {
+  padding-top: 18px;
+
+}
+
+.content {
+  padding: 16px;
+}

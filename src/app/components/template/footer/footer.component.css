@@ -1,0 +1,22 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  background-color:#757ae9;
+
+  display: flex;
+  justify-content: center;
+
+  height: 40px;
+}
+
+.footer i {
+  vertical-align: middle;
+  color:crimson;
+}
+
+.footer-text {
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 400;
+
+}
