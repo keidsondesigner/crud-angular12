@@ -30,3 +30,36 @@
   padding-right: 5px;
   color: #fff;
 }
+
+.header .title-group span {
+  padding-right: 15px;
+  border-right: 1px solid #edf1f7;
+}
+
+.img-avatar {
+  border-radius: 50%;
+  height:2.5rem;
+  width: 2.5rem;
+  border: 3px solid #d5d8ff;
+  margin-left: 15px;
+  background:#fff;
+}
+
+mat-card-subtitle {
+  margin-top: 0px !important;
+  margin-bottom: 0px;
+  padding-left: 10px;
+  color: #fff;
+
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.btn-logout {
+  padding-right: 5px;
+  margin-left: 10px;
+}
+
+.btn-logout i {
+  margin-left: 5px;
+}
