@@ -12,6 +12,10 @@
   cursor: pointer;
 }
 
+.nav-list a:focus {
+  color: #757AE9;
+}
+
 .nav-list span {
   padding-right: 5px;
 
@@ -25,3 +29,4 @@
 .content {
   padding: 16px;
 }
+

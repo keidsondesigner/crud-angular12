@@ -1,8 +1,8 @@
+import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatListModule } from '@angular/material/list';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatIconModule } from '@angular/material/icon';
 import { MatCardModule } from '@angular/material/card';
-import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatButtonModule } from '@angular/material/button';
 import { HomeComponent } from './views/home/home.component';
 import { HeaderComponent } from './components/template/header/header.component';
@@ -42,7 +42,8 @@ import { ProductCreateComponent } from './components/product/product-create/prod
     MatSidenavModule,
     MatCardModule,
     MatButtonModule,
-    MatListModule
+    MatListModule,
+
   ],
   providers: [],
   bootstrap: [AppComponent]

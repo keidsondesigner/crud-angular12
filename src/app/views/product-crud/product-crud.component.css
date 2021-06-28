@@ -1,8 +1,4 @@
-mat-list-option {
-  background: #fff;
-  margin-bottom: 10px;
-
-  border: solid 1px rgba(0,0,0,.12);
-  border-radius: 4px;
-
+.primary-btn {
+  background-color: #757AE9;
+  color: #fff;
 }
